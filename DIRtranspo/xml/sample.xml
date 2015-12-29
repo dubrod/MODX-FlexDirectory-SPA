@@ -1,0 +1,820 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+<title>Sample Directory</title>
+<link>http://modx.com</link>
+<description></description>
+<pubDate></pubDate>
+<language>en</language>
+
+
+<item>
+  <title>Apple</title>
+  <content:encoded><![CDATA[Apple Electronics.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>2</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>apple-devices</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>page</wp:post_type>
+</item>
+<item>
+  <title>Dell</title>
+  <content:encoded><![CDATA[Dell Electronics.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>3</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>dell-devices</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>page</wp:post_type>
+</item>
+<item>
+  <title>Samsung</title>
+  <content:encoded><![CDATA[Samsung Electronics.]]></content:encoded>
+  <excerpt:encoded><![CDATA[]]></excerpt:encoded>
+  <wp:post_id>4</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:comment_status>open</wp:comment_status>
+  <wp:ping_status>open</wp:ping_status>
+  <wp:post_name>samsung-devices</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>0</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>page</wp:post_type>
+</item>
+<item>
+  <title>MacBook Air 13in 1.6GHz i5</title>
+  <content:encoded><![CDATA[<strong>Up to 12 hours of battery life.</strong><br><strong>It won’t call it a day until you do.</strong><br>The 11-inch MacBook Air lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Whatever the task, new fifth-generation Intel Core i5 and i7 processors with Intel HD Graphics 6000 are up to it. From editing photos to browsing the web, everything happens ultrafast. And all that power is encased in an incredibly thin 0.68-inch unibody design that weighs only 2.38 pounds.]]></excerpt:encoded>
+  <wp:post_id>5</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>macBook-air-13inch-i5</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Laptop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Samsung ATIV Book 9 Plus NP940X3G-K01US</title>
+  <content:encoded><![CDATA[Intel Core i5-4200U Processor<br>4GB (4GB x 1) DDR3 Memory (1600MHz)<br>128 GB Solid-State Drive SATA3<br>13.3" LED QHD+, 3200 x 1800, 16:9, 10 Point Capacitive Touch Screen, Intel HD Graphics 4400<br>Windows 8 (64-bit)</p><p>Platform Samsung ATIV Book 9 Plus Model Name NP940X3G-K01US Description Samsung ATIV Book 9 Plus 13.3 i5-4200U, 4GB, 128GB, Touch Screen Screen Size 13.3 LED QHD+ Touch Screen Display Resolution 3200 x 1800; 16:9 Ratio Processor Intel Core i5-4200U Processor Processor Speed 1.6 GHz (Up to 2.6 GHz) Hard Drive Size 128GB SSD Memory Size 4GB DDR3 I/O Ports 1 x USB 2.0 + 1 x USB]]></content:encoded>
+  <excerpt:encoded><![CDATA[It's a nice laptop.]]></excerpt:encoded>
+  <wp:post_id>6</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>samsung-ativ-NP940X3G-K01US</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Laptop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-samsung-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPhone 6s</title>
+  <content:encoded><![CDATA[<strong>Screen size:</strong> 4.7 inch screen<br>The new iPHone lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Faster graphics, better battery, brighter screen.]]></excerpt:encoded>
+  <wp:post_id>7</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-iphone-6s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Samsung Galaxy S6</title>
+  <content:encoded><![CDATA[Experience the beautiful, reinvented Galaxy S® 6 edge – Samsung’s most powerful smartphone. And now, nothing’s holding you back, even if you’re stuck with your carrier. T-Mobile will pay off your phones and buy out your contracts. So why wait? Switch and get the Samsung Galaxy S® 6 edge today!</p><p>Enjoy vivid colors and dramatic contrasts on a beautiful 5.1” Quad HD Super AMOLED® display. With unlimited 4G LTE data from T-Mobile, you can stream your favorite movies and shows as much as you want, virtually wherever you want.]]></content:encoded>
+  <excerpt:encoded><![CDATA[The Galaxy S6 is arguably the most advanced smartphone ever made.]]></excerpt:encoded>
+  <wp:post_id>8</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>samsung-galaxy-6s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-samsung-tn.jpg</image>
+</item>
+<item>
+  <title>Samsung Galaxy Tablet</title>
+  <content:encoded><![CDATA[Watch the world come to life on the 9.7–inch Super AMOLED display. With deep contrast, rich colors and crisp details, you won’t miss a thing. Whether you’re in low light or sunlight, photos, videos, books and presentations look great thanks to adaptive display technology.</p><p>Supports up to 128GB microSD Card (sold separately)]]></content:encoded>
+  <excerpt:encoded><![CDATA[Thin, bright and flat–out gorgeous, the Samsung Galaxy Tab S2 is a premium tablet that doesn’t disappoint.]]></excerpt:encoded>
+  <wp:post_id>9</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>samsung-galaxy-tablet</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-samsung-tn.jpg</image>
+</item>
+<item>
+  <title>Dell Inspiron 15 3000</title>
+  <content:encoded><![CDATA[Stay powered up with this lightweight, 15” laptop featuring Intel® processors, excellent battery life and sound by Waves MaxxAudio® Pro.</p><p>Intel® Celeron® N3050 [Intel® Celeron® Processor N3050 (2M Cache, up to 2.16 GHz)]]></content:encoded>
+  <excerpt:encoded><![CDATA[Essential for everything you do.]]></excerpt:encoded>
+  <wp:post_id>10</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>dell-inspiron-15-3000</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>3</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Laptop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-dell-tn.jpg</image>
+</item>
+<item>
+  <title>Dell Venue 11 Pro</title>
+  <content:encoded><![CDATA[Intel® Core™ M-5Y70 Processor (4MB L3 Cache, 2.6GHz Dual-Core)<br>Windows 10 Home 64bit English Operating System<br>10.8 inch IPS Display with FHD (1920 x 1080) resolution with 10-pt capacitive touch]]></content:encoded>
+  <excerpt:encoded><![CDATA[Three devices in one.]]></excerpt:encoded>
+  <wp:post_id>11</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>dell-venue-11-7000</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>3</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-dell-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPad Pro</title>
+  <content:encoded><![CDATA[iPad has always offered a uniquely simple yet immersive experience. And now with its expansive 12.9-inch Retina display, nearly double the CPU performance of iPad Air 2, and refined Multi‑Touch technology, iPad Pro adds another dimension to that experience. It’s not just larger. It’s an iPad that lets you be more creative and more productive — at a whole new scale.]]></content:encoded>
+  <excerpt:encoded><![CDATA[Thin. Light. Epic.]]></excerpt:encoded>
+  <wp:post_id>12</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-ipad-pro</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPad Mini</title>
+  <content:encoded><![CDATA[iPad has always offered a uniquely simple yet immersive experience. And now with its expansive 12.9-inch Retina display, nearly double the CPU performance of iPad Air 2, and refined Multi‑Touch technology, iPad Pro adds another dimension to that experience. It’s not just larger. It’s an iPad that lets you be more creative and more productive — at a whole new scale.]]></content:encoded>
+  <excerpt:encoded><![CDATA[Mini. Thin. Light. Epic.]]></excerpt:encoded>
+  <wp:post_id>13</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-ipad-mini</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPhone 5s</title>
+  <content:encoded><![CDATA[<strong>Screen size:</strong> 4.7 inch screen<br>The new iPHone lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Faster graphics, better battery, brighter screen.]]></excerpt:encoded>
+  <wp:post_id>14</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-iphone-5s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Mac Pro Desktop i5</title>
+  <content:encoded><![CDATA[<strong>Desktop.</strong><br><strong>It won’t call it a day until you do.</strong><br>The 11-inch MacBook Air lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Whatever the task, new fifth-generation Intel Core i5 and i7 processors with Intel HD Graphics 6000 are up to it. From editing photos to browsing the web, everything happens ultrafast. And all that power is encased in an incredibly thin 0.68-inch unibody design that weighs only 2.38 pounds.]]></excerpt:encoded>
+  <wp:post_id>15</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>mac-pro-i5</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Desktop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Dell Inspiron Desktop</title>
+  <content:encoded><![CDATA[Stay powered up with this lightweight, 15” laptop featuring Intel® processors, excellent battery life and sound by Waves MaxxAudio® Pro.</p><p>Intel® Celeron® N3050 [Intel® Celeron® Processor N3050 (2M Cache, up to 2.16 GHz)]]></content:encoded>
+  <excerpt:encoded><![CDATA[Desktop Version. Essential for everything you do.]]></excerpt:encoded>
+  <wp:post_id>16</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>dell-inspiron-desktop</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>3</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Desktop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-dell-tn.jpg</image>
+</item>
+<item>
+  <title>MacBook Air 13in 1.6GHz i5</title>
+  <content:encoded><![CDATA[<strong>Up to 12 hours of battery life.</strong><br><strong>It won’t call it a day until you do.</strong><br>The 11-inch MacBook Air lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Whatever the task, new fifth-generation Intel Core i5 and i7 processors with Intel HD Graphics 6000 are up to it. From editing photos to browsing the web, everything happens ultrafast. And all that power is encased in an incredibly thin 0.68-inch unibody design that weighs only 2.38 pounds.]]></excerpt:encoded>
+  <wp:post_id>17</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>macBook-air-13inch-i5</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Laptop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Samsung ATIV Book 9 Plus NP940X3G-K01US</title>
+  <content:encoded><![CDATA[Intel Core i5-4200U Processor<br>4GB (4GB x 1) DDR3 Memory (1600MHz)<br>128 GB Solid-State Drive SATA3<br>13.3" LED QHD+, 3200 x 1800, 16:9, 10 Point Capacitive Touch Screen, Intel HD Graphics 4400<br>Windows 8 (64-bit)</p><p>Platform Samsung ATIV Book 9 Plus Model Name NP940X3G-K01US Description Samsung ATIV Book 9 Plus 13.3 i5-4200U, 4GB, 128GB, Touch Screen Screen Size 13.3 LED QHD+ Touch Screen Display Resolution 3200 x 1800; 16:9 Ratio Processor Intel Core i5-4200U Processor Processor Speed 1.6 GHz (Up to 2.6 GHz) Hard Drive Size 128GB SSD Memory Size 4GB DDR3 I/O Ports 1 x USB 2.0 + 1 x USB]]></content:encoded>
+  <excerpt:encoded><![CDATA[It's a nice laptop.]]></excerpt:encoded>
+  <wp:post_id>18</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>samsung-ativ-NP940X3G-K01US</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Laptop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-samsung-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPhone 6s</title>
+  <content:encoded><![CDATA[<strong>Screen size:</strong> 4.7 inch screen<br>The new iPHone lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Faster graphics, better battery, brighter screen.]]></excerpt:encoded>
+  <wp:post_id>19</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-iphone-6s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Samsung Galaxy S6</title>
+  <content:encoded><![CDATA[Experience the beautiful, reinvented Galaxy S® 6 edge – Samsung’s most powerful smartphone. And now, nothing’s holding you back, even if you’re stuck with your carrier. T-Mobile will pay off your phones and buy out your contracts. So why wait? Switch and get the Samsung Galaxy S® 6 edge today!</p><p>Enjoy vivid colors and dramatic contrasts on a beautiful 5.1” Quad HD Super AMOLED® display. With unlimited 4G LTE data from T-Mobile, you can stream your favorite movies and shows as much as you want, virtually wherever you want.]]></content:encoded>
+  <excerpt:encoded><![CDATA[The Galaxy S6 is arguably the most advanced smartphone ever made.]]></excerpt:encoded>
+  <wp:post_id>20</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>samsung-galaxy-6s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-samsung-tn.jpg</image>
+</item>
+<item>
+  <title>Samsung Galaxy Tablet</title>
+  <content:encoded><![CDATA[Watch the world come to life on the 9.7–inch Super AMOLED display. With deep contrast, rich colors and crisp details, you won’t miss a thing. Whether you’re in low light or sunlight, photos, videos, books and presentations look great thanks to adaptive display technology.</p><p>Supports up to 128GB microSD Card (sold separately)]]></content:encoded>
+  <excerpt:encoded><![CDATA[Thin, bright and flat–out gorgeous, the Samsung Galaxy Tab S2 is a premium tablet that doesn’t disappoint.]]></excerpt:encoded>
+  <wp:post_id>21</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>samsung-galaxy-tablet</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-samsung-tn.jpg</image>
+</item>
+<item>
+  <title>Dell Inspiron 15 3000</title>
+  <content:encoded><![CDATA[Stay powered up with this lightweight, 15” laptop featuring Intel® processors, excellent battery life and sound by Waves MaxxAudio® Pro.</p><p>Intel® Celeron® N3050 [Intel® Celeron® Processor N3050 (2M Cache, up to 2.16 GHz)]]></content:encoded>
+  <excerpt:encoded><![CDATA[Essential for everything you do.]]></excerpt:encoded>
+  <wp:post_id>22</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>dell-inspiron-15-3000</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>3</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Laptop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-dell-tn.jpg</image>
+</item>
+<item>
+  <title>Dell Venue 11 Pro</title>
+  <content:encoded><![CDATA[Intel® Core™ M-5Y70 Processor (4MB L3 Cache, 2.6GHz Dual-Core)<br>Windows 10 Home 64bit English Operating System<br>10.8 inch IPS Display with FHD (1920 x 1080) resolution with 10-pt capacitive touch]]></content:encoded>
+  <excerpt:encoded><![CDATA[Three devices in one.]]></excerpt:encoded>
+  <wp:post_id>23</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>dell-venue-11-7000</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>3</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-dell-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPad Pro</title>
+  <content:encoded><![CDATA[iPad has always offered a uniquely simple yet immersive experience. And now with its expansive 12.9-inch Retina display, nearly double the CPU performance of iPad Air 2, and refined Multi‑Touch technology, iPad Pro adds another dimension to that experience. It’s not just larger. It’s an iPad that lets you be more creative and more productive — at a whole new scale.]]></content:encoded>
+  <excerpt:encoded><![CDATA[Thin. Light. Epic.]]></excerpt:encoded>
+  <wp:post_id>24</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-ipad-pro</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPad Mini</title>
+  <content:encoded><![CDATA[iPad has always offered a uniquely simple yet immersive experience. And now with its expansive 12.9-inch Retina display, nearly double the CPU performance of iPad Air 2, and refined Multi‑Touch technology, iPad Pro adds another dimension to that experience. It’s not just larger. It’s an iPad that lets you be more creative and more productive — at a whole new scale.]]></content:encoded>
+  <excerpt:encoded><![CDATA[Mini. Thin. Light. Epic.]]></excerpt:encoded>
+  <wp:post_id>25</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-ipad-mini</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPhone 5s</title>
+  <content:encoded><![CDATA[<strong>Screen size:</strong> 4.7 inch screen<br>The new iPHone lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Faster graphics, better battery, brighter screen.]]></excerpt:encoded>
+  <wp:post_id>26</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-iphone-5s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Mac Pro Desktop i5</title>
+  <content:encoded><![CDATA[<strong>Desktop.</strong><br><strong>It won’t call it a day until you do.</strong><br>The 11-inch MacBook Air lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Whatever the task, new fifth-generation Intel Core i5 and i7 processors with Intel HD Graphics 6000 are up to it. From editing photos to browsing the web, everything happens ultrafast. And all that power is encased in an incredibly thin 0.68-inch unibody design that weighs only 2.38 pounds.]]></excerpt:encoded>
+  <wp:post_id>27</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>mac-pro-i5</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Desktop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Dell Inspiron Desktop</title>
+  <content:encoded><![CDATA[Stay powered up with this lightweight, 15” laptop featuring Intel® processors, excellent battery life and sound by Waves MaxxAudio® Pro.</p><p>Intel® Celeron® N3050 [Intel® Celeron® Processor N3050 (2M Cache, up to 2.16 GHz)]]></content:encoded>
+  <excerpt:encoded><![CDATA[Desktop Version. Essential for everything you do.]]></excerpt:encoded>
+  <wp:post_id>28</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>dell-inspiron-desktop</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>3</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Desktop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-dell-tn.jpg</image>
+</item>
+<item>
+  <title>MacBook Air 13in 1.6GHz i5</title>
+  <content:encoded><![CDATA[<strong>Up to 12 hours of battery life.</strong><br><strong>It won’t call it a day until you do.</strong><br>The 11-inch MacBook Air lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Whatever the task, new fifth-generation Intel Core i5 and i7 processors with Intel HD Graphics 6000 are up to it. From editing photos to browsing the web, everything happens ultrafast. And all that power is encased in an incredibly thin 0.68-inch unibody design that weighs only 2.38 pounds.]]></excerpt:encoded>
+  <wp:post_id>29</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>macBook-air-13inch-i5</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Laptop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Samsung ATIV Book 9 Plus NP940X3G-K01US</title>
+  <content:encoded><![CDATA[Intel Core i5-4200U Processor<br>4GB (4GB x 1) DDR3 Memory (1600MHz)<br>128 GB Solid-State Drive SATA3<br>13.3" LED QHD+, 3200 x 1800, 16:9, 10 Point Capacitive Touch Screen, Intel HD Graphics 4400<br>Windows 8 (64-bit)</p><p>Platform Samsung ATIV Book 9 Plus Model Name NP940X3G-K01US Description Samsung ATIV Book 9 Plus 13.3 i5-4200U, 4GB, 128GB, Touch Screen Screen Size 13.3 LED QHD+ Touch Screen Display Resolution 3200 x 1800; 16:9 Ratio Processor Intel Core i5-4200U Processor Processor Speed 1.6 GHz (Up to 2.6 GHz) Hard Drive Size 128GB SSD Memory Size 4GB DDR3 I/O Ports 1 x USB 2.0 + 1 x USB]]></content:encoded>
+  <excerpt:encoded><![CDATA[It's a nice laptop.]]></excerpt:encoded>
+  <wp:post_id>30</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>samsung-ativ-NP940X3G-K01US</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Laptop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-samsung-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPhone 6s</title>
+  <content:encoded><![CDATA[<strong>Screen size:</strong> 4.7 inch screen<br>The new iPHone lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Faster graphics, better battery, brighter screen.]]></excerpt:encoded>
+  <wp:post_id>31</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-iphone-6s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Samsung Galaxy S6</title>
+  <content:encoded><![CDATA[Experience the beautiful, reinvented Galaxy S® 6 edge – Samsung’s most powerful smartphone. And now, nothing’s holding you back, even if you’re stuck with your carrier. T-Mobile will pay off your phones and buy out your contracts. So why wait? Switch and get the Samsung Galaxy S® 6 edge today!</p><p>Enjoy vivid colors and dramatic contrasts on a beautiful 5.1” Quad HD Super AMOLED® display. With unlimited 4G LTE data from T-Mobile, you can stream your favorite movies and shows as much as you want, virtually wherever you want.]]></content:encoded>
+  <excerpt:encoded><![CDATA[The Galaxy S6 is arguably the most advanced smartphone ever made.]]></excerpt:encoded>
+  <wp:post_id>32</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>samsung-galaxy-6s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-samsung-tn.jpg</image>
+</item>
+<item>
+  <title>Samsung Galaxy Tablet</title>
+  <content:encoded><![CDATA[Watch the world come to life on the 9.7–inch Super AMOLED display. With deep contrast, rich colors and crisp details, you won’t miss a thing. Whether you’re in low light or sunlight, photos, videos, books and presentations look great thanks to adaptive display technology.</p><p>Supports up to 128GB microSD Card (sold separately)]]></content:encoded>
+  <excerpt:encoded><![CDATA[Thin, bright and flat–out gorgeous, the Samsung Galaxy Tab S2 is a premium tablet that doesn’t disappoint.]]></excerpt:encoded>
+  <wp:post_id>33</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>samsung-galaxy-tablet</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-samsung-tn.jpg</image>
+</item>
+<item>
+  <title>Dell Inspiron 15 3000</title>
+  <content:encoded><![CDATA[Stay powered up with this lightweight, 15” laptop featuring Intel® processors, excellent battery life and sound by Waves MaxxAudio® Pro.</p><p>Intel® Celeron® N3050 [Intel® Celeron® Processor N3050 (2M Cache, up to 2.16 GHz)]]></content:encoded>
+  <excerpt:encoded><![CDATA[Essential for everything you do.]]></excerpt:encoded>
+  <wp:post_id>34</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>dell-inspiron-15-3000</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>3</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Laptop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-dell-tn.jpg</image>
+</item>
+<item>
+  <title>Dell Venue 11 Pro</title>
+  <content:encoded><![CDATA[Intel® Core™ M-5Y70 Processor (4MB L3 Cache, 2.6GHz Dual-Core)<br>Windows 10 Home 64bit English Operating System<br>10.8 inch IPS Display with FHD (1920 x 1080) resolution with 10-pt capacitive touch]]></content:encoded>
+  <excerpt:encoded><![CDATA[Three devices in one.]]></excerpt:encoded>
+  <wp:post_id>35</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>dell-venue-11-7000</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>3</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-dell-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPad Pro</title>
+  <content:encoded><![CDATA[iPad has always offered a uniquely simple yet immersive experience. And now with its expansive 12.9-inch Retina display, nearly double the CPU performance of iPad Air 2, and refined Multi‑Touch technology, iPad Pro adds another dimension to that experience. It’s not just larger. It’s an iPad that lets you be more creative and more productive — at a whole new scale.]]></content:encoded>
+  <excerpt:encoded><![CDATA[Thin. Light. Epic.]]></excerpt:encoded>
+  <wp:post_id>36</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-ipad-pro</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPad Mini</title>
+  <content:encoded><![CDATA[iPad has always offered a uniquely simple yet immersive experience. And now with its expansive 12.9-inch Retina display, nearly double the CPU performance of iPad Air 2, and refined Multi‑Touch technology, iPad Pro adds another dimension to that experience. It’s not just larger. It’s an iPad that lets you be more creative and more productive — at a whole new scale.]]></content:encoded>
+  <excerpt:encoded><![CDATA[Mini. Thin. Light. Epic.]]></excerpt:encoded>
+  <wp:post_id>37</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-ipad-mini</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPhone 5s</title>
+  <content:encoded><![CDATA[<strong>Screen size:</strong> 4.7 inch screen<br>The new iPHone lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Faster graphics, better battery, brighter screen.]]></excerpt:encoded>
+  <wp:post_id>38</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-iphone-5s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Mac Pro Desktop i5</title>
+  <content:encoded><![CDATA[<strong>Desktop.</strong><br><strong>It won’t call it a day until you do.</strong><br>The 11-inch MacBook Air lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Whatever the task, new fifth-generation Intel Core i5 and i7 processors with Intel HD Graphics 6000 are up to it. From editing photos to browsing the web, everything happens ultrafast. And all that power is encased in an incredibly thin 0.68-inch unibody design that weighs only 2.38 pounds.]]></excerpt:encoded>
+  <wp:post_id>39</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>mac-pro-i5</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Desktop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Dell Inspiron Desktop</title>
+  <content:encoded><![CDATA[Stay powered up with this lightweight, 15” laptop featuring Intel® processors, excellent battery life and sound by Waves MaxxAudio® Pro.</p><p>Intel® Celeron® N3050 [Intel® Celeron® Processor N3050 (2M Cache, up to 2.16 GHz)]]></content:encoded>
+  <excerpt:encoded><![CDATA[Desktop Version. Essential for everything you do.]]></excerpt:encoded>
+  <wp:post_id>40</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>dell-inspiron-desktop</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>3</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Desktop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-dell-tn.jpg</image>
+</item>
+
+<item>
+  <title>Apple iPhone 6s</title>
+  <content:encoded><![CDATA[<strong>Screen size:</strong> 4.7 inch screen<br>The new iPHone lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Faster graphics, better battery, brighter screen.]]></excerpt:encoded>
+  <wp:post_id>41</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-iphone-6s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Samsung Galaxy S6</title>
+  <content:encoded><![CDATA[Experience the beautiful, reinvented Galaxy S® 6 edge – Samsung’s most powerful smartphone. And now, nothing’s holding you back, even if you’re stuck with your carrier. T-Mobile will pay off your phones and buy out your contracts. So why wait? Switch and get the Samsung Galaxy S® 6 edge today!</p><p>Enjoy vivid colors and dramatic contrasts on a beautiful 5.1” Quad HD Super AMOLED® display. With unlimited 4G LTE data from T-Mobile, you can stream your favorite movies and shows as much as you want, virtually wherever you want.]]></content:encoded>
+  <excerpt:encoded><![CDATA[The Galaxy S6 is arguably the most advanced smartphone ever made.]]></excerpt:encoded>
+  <wp:post_id>42</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>samsung-galaxy-6s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-samsung-tn.jpg</image>
+</item>
+<item>
+  <title>Samsung Galaxy Tablet</title>
+  <content:encoded><![CDATA[Watch the world come to life on the 9.7–inch Super AMOLED display. With deep contrast, rich colors and crisp details, you won’t miss a thing. Whether you’re in low light or sunlight, photos, videos, books and presentations look great thanks to adaptive display technology.</p><p>Supports up to 128GB microSD Card (sold separately)]]></content:encoded>
+  <excerpt:encoded><![CDATA[Thin, bright and flat–out gorgeous, the Samsung Galaxy Tab S2 is a premium tablet that doesn’t disappoint.]]></excerpt:encoded>
+  <wp:post_id>43</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>samsung-galaxy-tablet</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-samsung-tn.jpg</image>
+</item>
+<item>
+  <title>Dell Inspiron 15 3000</title>
+  <content:encoded><![CDATA[Stay powered up with this lightweight, 15” laptop featuring Intel® processors, excellent battery life and sound by Waves MaxxAudio® Pro.</p><p>Intel® Celeron® N3050 [Intel® Celeron® Processor N3050 (2M Cache, up to 2.16 GHz)]]></content:encoded>
+  <excerpt:encoded><![CDATA[Essential for everything you do.]]></excerpt:encoded>
+  <wp:post_id>44</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>dell-inspiron-15-3000</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>3</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Laptop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-dell-tn.jpg</image>
+</item>
+<item>
+  <title>Dell Venue 11 Pro</title>
+  <content:encoded><![CDATA[Intel® Core™ M-5Y70 Processor (4MB L3 Cache, 2.6GHz Dual-Core)<br>Windows 10 Home 64bit English Operating System<br>10.8 inch IPS Display with FHD (1920 x 1080) resolution with 10-pt capacitive touch]]></content:encoded>
+  <excerpt:encoded><![CDATA[Three devices in one.]]></excerpt:encoded>
+  <wp:post_id>45</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>dell-venue-11-7000</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>3</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-dell-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPad Pro</title>
+  <content:encoded><![CDATA[iPad has always offered a uniquely simple yet immersive experience. And now with its expansive 12.9-inch Retina display, nearly double the CPU performance of iPad Air 2, and refined Multi‑Touch technology, iPad Pro adds another dimension to that experience. It’s not just larger. It’s an iPad that lets you be more creative and more productive — at a whole new scale.]]></content:encoded>
+  <excerpt:encoded><![CDATA[Thin. Light. Epic.]]></excerpt:encoded>
+  <wp:post_id>46</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-ipad-pro</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPad Mini</title>
+  <content:encoded><![CDATA[iPad has always offered a uniquely simple yet immersive experience. And now with its expansive 12.9-inch Retina display, nearly double the CPU performance of iPad Air 2, and refined Multi‑Touch technology, iPad Pro adds another dimension to that experience. It’s not just larger. It’s an iPad that lets you be more creative and more productive — at a whole new scale.]]></content:encoded>
+  <excerpt:encoded><![CDATA[Mini. Thin. Light. Epic.]]></excerpt:encoded>
+  <wp:post_id>47</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-ipad-mini</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPhone 5s</title>
+  <content:encoded><![CDATA[<strong>Screen size:</strong> 4.7 inch screen<br>The new iPHone lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Faster graphics, better battery, brighter screen.]]></excerpt:encoded>
+  <wp:post_id>48</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-iphone-5s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Samsung Galaxy S6</title>
+  <content:encoded><![CDATA[Experience the beautiful, reinvented Galaxy S® 6 edge – Samsung’s most powerful smartphone. And now, nothing’s holding you back, even if you’re stuck with your carrier. T-Mobile will pay off your phones and buy out your contracts. So why wait? Switch and get the Samsung Galaxy S® 6 edge today!</p><p>Enjoy vivid colors and dramatic contrasts on a beautiful 5.1” Quad HD Super AMOLED® display. With unlimited 4G LTE data from T-Mobile, you can stream your favorite movies and shows as much as you want, virtually wherever you want.]]></content:encoded>
+  <excerpt:encoded><![CDATA[The Galaxy S6 is arguably the most advanced smartphone ever made.]]></excerpt:encoded>
+  <wp:post_id>49</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>samsung-galaxy-6s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-samsung-tn.jpg</image>
+</item>
+<item>
+  <title>Samsung Galaxy Tablet</title>
+  <content:encoded><![CDATA[Watch the world come to life on the 9.7–inch Super AMOLED display. With deep contrast, rich colors and crisp details, you won’t miss a thing. Whether you’re in low light or sunlight, photos, videos, books and presentations look great thanks to adaptive display technology.</p><p>Supports up to 128GB microSD Card (sold separately)]]></content:encoded>
+  <excerpt:encoded><![CDATA[Thin, bright and flat–out gorgeous, the Samsung Galaxy Tab S2 is a premium tablet that doesn’t disappoint.]]></excerpt:encoded>
+  <wp:post_id>50</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>samsung-galaxy-tablet</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>4</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-samsung-tn.jpg</image>
+</item>
+<item>
+  <title>Dell Inspiron 15 3000</title>
+  <content:encoded><![CDATA[Stay powered up with this lightweight, 15” laptop featuring Intel® processors, excellent battery life and sound by Waves MaxxAudio® Pro.</p><p>Intel® Celeron® N3050 [Intel® Celeron® Processor N3050 (2M Cache, up to 2.16 GHz)]]></content:encoded>
+  <excerpt:encoded><![CDATA[Essential for everything you do.]]></excerpt:encoded>
+  <wp:post_id>51</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>dell-inspiron-15-3000</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>3</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Laptop]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/laptop-dell-tn.jpg</image>
+</item>
+<item>
+  <title>Dell Venue 11 Pro</title>
+  <content:encoded><![CDATA[Intel® Core™ M-5Y70 Processor (4MB L3 Cache, 2.6GHz Dual-Core)<br>Windows 10 Home 64bit English Operating System<br>10.8 inch IPS Display with FHD (1920 x 1080) resolution with 10-pt capacitive touch]]></content:encoded>
+  <excerpt:encoded><![CDATA[Three devices in one.]]></excerpt:encoded>
+  <wp:post_id>52</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>dell-venue-11-7000</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>3</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-dell-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPad Pro</title>
+  <content:encoded><![CDATA[iPad has always offered a uniquely simple yet immersive experience. And now with its expansive 12.9-inch Retina display, nearly double the CPU performance of iPad Air 2, and refined Multi‑Touch technology, iPad Pro adds another dimension to that experience. It’s not just larger. It’s an iPad that lets you be more creative and more productive — at a whole new scale.]]></content:encoded>
+  <excerpt:encoded><![CDATA[Thin. Light. Epic.]]></excerpt:encoded>
+  <wp:post_id>53</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-ipad-pro</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPad Mini</title>
+  <content:encoded><![CDATA[iPad has always offered a uniquely simple yet immersive experience. And now with its expansive 12.9-inch Retina display, nearly double the CPU performance of iPad Air 2, and refined Multi‑Touch technology, iPad Pro adds another dimension to that experience. It’s not just larger. It’s an iPad that lets you be more creative and more productive — at a whole new scale.]]></content:encoded>
+  <excerpt:encoded><![CDATA[Mini. Thin. Light. Epic.]]></excerpt:encoded>
+  <wp:post_id>54</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-ipad-mini</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Tablet]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/tablet-apple-tn.jpg</image>
+</item>
+<item>
+  <title>Apple iPhone 5s</title>
+  <content:encoded><![CDATA[<strong>Screen size:</strong> 4.7 inch screen<br>The new iPHone lasts up to 9 hours between charges and the 13-inch model lasts up to an incredible 12 hours. So from your morning coffee till your evening commute, you can work unplugged. When it’s time to kick back and relax, you can get up to 10 hours of iTunes movie playback on the 11-inch model and up to 12 hours on the 13-inch model. And with up to 30 days of standby time, you can go away for weeks and pick up right where you left off.</p><p><strong>Thin. Light. Powerful.</strong><br><strong>And ready for anything.</strong>]]></content:encoded>
+  <excerpt:encoded><![CDATA[Faster graphics, better battery, brighter screen.]]></excerpt:encoded>
+  <wp:post_id>55</wp:post_id>
+  <wp:post_date>2015-12-02 10:48:00</wp:post_date>
+  <wp:post_date_gmt>2015-12-02 10:48:00</wp:post_date_gmt>
+  <wp:post_name>apple-iphone-5s</wp:post_name>
+  <wp:status>publish</wp:status>
+  <wp:post_parent>2</wp:post_parent>
+  <wp:menu_order>0</wp:menu_order>
+  <wp:post_type>post</wp:post_type>
+  <category domain="category" nicename="fdspa-category"><![CDATA[Phone]]></category>
+  <image domain="thumbnail" nicename="fdspa-thumb">assets/images/phone-apple-tn.jpg</image>
+</item>
+  </channel>
+</rss>
