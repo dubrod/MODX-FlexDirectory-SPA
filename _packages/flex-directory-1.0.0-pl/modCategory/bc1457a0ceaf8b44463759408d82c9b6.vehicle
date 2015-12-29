@@ -1,0 +1,198 @@
+<?php return array (
+  'unique_key' => 'category',
+  'preserve_keys' => false,
+  'update_object' => true,
+  'related_objects' => 
+  array (
+    'Chunks' => 
+    array (
+      '21a524982580daddcb04243855d48a92' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modChunk',
+        'object' => '{"id":null,"source":0,"property_preprocess":0,"name":"fdspa_categories_list","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"<li><a href=\\"javascript:void(0)\\" class=\\"[[+cname]]\\">[[+cname]]<\\/a><\\/li>\\n","locked":0,"properties":"a:0:{}","static":0,"static_file":"","content":"<li><a href=\\"javascript:void(0)\\" class=\\"[[+cname]]\\">[[+cname]]<\\/a><\\/li>\\n"}',
+        'guid' => '43b8215b818d035bb2807e886d7cc919',
+        'native_key' => NULL,
+        'signature' => '3d7b6a33b7c541fcca07cc8d64d5b409',
+      ),
+    ),
+    'Snippets' => 
+    array (
+      '77277c0c05e39bccdc552f336d8f110a' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":null,"source":0,"property_preprocess":0,"name":"fdspaCategories","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/**\\n * fdspaCategories\\n *\\n * DESCRIPTION\\n *\\n * This Snippet loops through the supplied resource parents\\n * for TV values set on \\"fdspa-category\\".\\n * Then makes a LI element via chunk \\"fdspa_categories_list\\"\\n *\\n *\\n * USAGE:\\n *\\n * [[fdspaCategories? &parents=`[[++flex-directory.parents]]`]]\\n *\\n *\\/\\n\\n$input = $modx->getOption(\'parents\', $scriptProperties);\\n$parents = explode(\\",\\", $input);\\n\\n$limit=0;\\n$offset=0;\\n$c = $modx->newQuery(\'modResource\');\\n$c->where(array(\\n    \'parent:IN\' => $parents, \\/\\/ whatever where conditions you want\\n));\\n$c->limit($limit, $offset); \\/\\/ whatever limit you want. This makes it compatible with getPage\\n$includeFields = $modx->getOption(\'includeFields\', $scriptProperties, \'id\'); \\/\\/ comma separated list including the primary key \\"id\\"\\n$c->select($includeFields); \\/\\/ only fetch the columns you need\\n\\n$resources = $modx->getCollection(\'modResource\', $c);\\n\\n$output = \\"\\";\\n$cateArray = array();\\nforeach ($resources as $res) {\\n\\n    $category = $res->getTVValue(\'fdspa-category\');\\n    if(!in_array($category,$cateArray)){\\n        $cateArray[] = $category;\\n    }\\n}\\n\\n$r = array();\\nforeach ($cateArray as $c){\\n    $r[\'cname\'] = $c;\\n    $output .= $modx->parseChunk(\'fdspa_categories_list\', $r);\\n}\\n\\nreturn $output;","locked":0,"properties":"a:0:{}","moduleguid":"","static":0,"static_file":"","content":"\\/**\\n * fdspaCategories\\n *\\n * DESCRIPTION\\n *\\n * This Snippet loops through the supplied resource parents\\n * for TV values set on \\"fdspa-category\\".\\n * Then makes a LI element via chunk \\"fdspa_categories_list\\"\\n *\\n *\\n * USAGE:\\n *\\n * [[fdspaCategories? &parents=`[[++flex-directory.parents]]`]]\\n *\\n *\\/\\n\\n$input = $modx->getOption(\'parents\', $scriptProperties);\\n$parents = explode(\\",\\", $input);\\n\\n$limit=0;\\n$offset=0;\\n$c = $modx->newQuery(\'modResource\');\\n$c->where(array(\\n    \'parent:IN\' => $parents, \\/\\/ whatever where conditions you want\\n));\\n$c->limit($limit, $offset); \\/\\/ whatever limit you want. This makes it compatible with getPage\\n$includeFields = $modx->getOption(\'includeFields\', $scriptProperties, \'id\'); \\/\\/ comma separated list including the primary key \\"id\\"\\n$c->select($includeFields); \\/\\/ only fetch the columns you need\\n\\n$resources = $modx->getCollection(\'modResource\', $c);\\n\\n$output = \\"\\";\\n$cateArray = array();\\nforeach ($resources as $res) {\\n\\n    $category = $res->getTVValue(\'fdspa-category\');\\n    if(!in_array($category,$cateArray)){\\n        $cateArray[] = $category;\\n    }\\n}\\n\\n$r = array();\\nforeach ($cateArray as $c){\\n    $r[\'cname\'] = $c;\\n    $output .= $modx->parseChunk(\'fdspa_categories_list\', $r);\\n}\\n\\nreturn $output;"}',
+        'guid' => '72fa71e15f806bafec7290919e674bf2',
+        'native_key' => NULL,
+        'signature' => '27650c0fb248ed262fbe21adc292053f',
+      ),
+      'f126ea304b0342671ad153f8c5f0ffc5' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":null,"source":0,"property_preprocess":0,"name":"fdspaContent","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/**\\n * fdspaContent\\n *\\n * DESCRIPTION\\n *\\n * This Snippet loops through the supplied resource parents\\n * for specific values.\\n * Then makes a Json Object.\\n *\\n *\\n * USAGE:\\n *\\n * var array_name = [[fdspaContent? &parents=`[[++flex-directory.parents]]`]];\\n *\\n *\\/\\n\\n$input = $modx->getOption(\'parents\', $scriptProperties);\\n$parents = explode(\\",\\", $input);\\n\\n$limit=0;\\n$offset=0;\\n$c = $modx->newQuery(\'modResource\');\\n$c->where(array(\\n    \'parent:IN\' => $parents, \\/\\/ whatever where conditions you want\\n));\\n$c->limit($limit, $offset); \\/\\/ whatever limit you want. This makes it compatible with getPage\\n$includeFields = $modx->getOption(\'includeFields\', $scriptProperties, \'id,pagetitle,introtext\'); \\/\\/ comma separated list including the primary key \\"id\\"\\n$c->select($includeFields); \\/\\/ only fetch the columns you need\\n\\n$resources = $modx->getCollection(\'modResource\', $c);\\n\\n$output = array();\\n$idx = 1;\\nforeach ($resources as $res) {\\n    \\/\\/$res->get(\'id\')\\n\\n    \\/\\/get parent name\\n    $pid = $res->get(\'parent\');\\n    $parentObj = $modx->getObject(\'modResource\', $pid);\\n    $pArray = array(\\"parentslug\\" => $parentObj->get(\'pagetitle\'));\\n\\n    \\/\\/get category\\n    $category = $res->getTVValue(\'fdspa-category\');\\n    $cArray = array(\\"category\\" => $category);\\n\\n    \\/\\/get thumbnail\\n    $thumb = $res->getTVValue(\'fdspa-thumb\');\\n    $tArray = array(\\"thumbnail\\" => $thumb);\\n\\n    $r = $res->toArray(\'\', false, true); \\/\\/ you want that 3rd argument to prevent loading all columns\\n    $output[$idx] = array_merge($r, $pArray, $tArray, $cArray);\\n    $idx++;\\n}\\nreturn $modx->toJSON($output);","locked":0,"properties":"a:0:{}","moduleguid":"","static":0,"static_file":"","content":"\\/**\\n * fdspaContent\\n *\\n * DESCRIPTION\\n *\\n * This Snippet loops through the supplied resource parents\\n * for specific values.\\n * Then makes a Json Object.\\n *\\n *\\n * USAGE:\\n *\\n * var array_name = [[fdspaContent? &parents=`[[++flex-directory.parents]]`]];\\n *\\n *\\/\\n\\n$input = $modx->getOption(\'parents\', $scriptProperties);\\n$parents = explode(\\",\\", $input);\\n\\n$limit=0;\\n$offset=0;\\n$c = $modx->newQuery(\'modResource\');\\n$c->where(array(\\n    \'parent:IN\' => $parents, \\/\\/ whatever where conditions you want\\n));\\n$c->limit($limit, $offset); \\/\\/ whatever limit you want. This makes it compatible with getPage\\n$includeFields = $modx->getOption(\'includeFields\', $scriptProperties, \'id,pagetitle,introtext\'); \\/\\/ comma separated list including the primary key \\"id\\"\\n$c->select($includeFields); \\/\\/ only fetch the columns you need\\n\\n$resources = $modx->getCollection(\'modResource\', $c);\\n\\n$output = array();\\n$idx = 1;\\nforeach ($resources as $res) {\\n    \\/\\/$res->get(\'id\')\\n\\n    \\/\\/get parent name\\n    $pid = $res->get(\'parent\');\\n    $parentObj = $modx->getObject(\'modResource\', $pid);\\n    $pArray = array(\\"parentslug\\" => $parentObj->get(\'pagetitle\'));\\n\\n    \\/\\/get category\\n    $category = $res->getTVValue(\'fdspa-category\');\\n    $cArray = array(\\"category\\" => $category);\\n\\n    \\/\\/get thumbnail\\n    $thumb = $res->getTVValue(\'fdspa-thumb\');\\n    $tArray = array(\\"thumbnail\\" => $thumb);\\n\\n    $r = $res->toArray(\'\', false, true); \\/\\/ you want that 3rd argument to prevent loading all columns\\n    $output[$idx] = array_merge($r, $pArray, $tArray, $cArray);\\n    $idx++;\\n}\\nreturn $modx->toJSON($output);"}',
+        'guid' => '403a1ea0ea9b203d192137c682bed1b5',
+        'native_key' => NULL,
+        'signature' => '08430a3e5e65bacca4feb590eb731b04',
+      ),
+      '1eb1a56c5cfc99cae40dd1441abfb929' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modSnippet',
+        'object' => '{"id":null,"source":0,"property_preprocess":0,"name":"fdspaPages","description":"","editor_type":0,"category":0,"cache_type":0,"snippet":"\\/**\\n * fdspaPages\\n *\\n * DESCRIPTION\\n *\\n * This Snippet loops through the resources given\\n * for page titles.\\n * Then makes a LI element via chunk \\"fdspa_categories_list\\"\\n *\\n *\\n * USAGE:\\n *\\n * [[fdspaPages? &pages=`[[++flex-directory.parents]]`]]\\n *\\n *\\/\\n\\n$input = $modx->getOption(\'pages\', $scriptProperties);\\n$pages = explode(\\",\\", $input);\\n\\n$limit=0;\\n$c = $modx->newQuery(\'modResource\');\\n$c->where(array(\\n    \'id:IN\' => $pages,\\n));\\n$c->limit($limit, $offset); \\/\\/ whatever limit you want. This makes it compatible with getPage\\n$includeFields = $modx->getOption(\'includeFields\', $scriptProperties, \'id,pagetitle,hidemenu,published\'); \\/\\/ comma separated list including the primary key \\"id\\"\\n$c->select($includeFields); \\/\\/ only fetch the columns you need\\n\\n$resources = $modx->getCollection(\'modResource\', $c);\\n\\n$output = \\"\\";\\n$pageArray = array();\\nforeach ($resources as $res) {\\n    if(!$res->get(\'hidemenu\') && $res->get(\'published\')){\\n        $t = $res->get(\'pagetitle\');\\n        if(!in_array($t,$pageArray)){\\n            $pageArray[] = $t;\\n        }\\n    }\\n}\\n\\n$r = array();\\nforeach ($pageArray as $c){\\n    $r[\'cname\'] = $c;\\n    $output .= $modx->parseChunk(\'fdspa_categories_list\', $r);\\n}\\n\\nreturn $output;","locked":0,"properties":"a:0:{}","moduleguid":"","static":0,"static_file":"","content":"\\/**\\n * fdspaPages\\n *\\n * DESCRIPTION\\n *\\n * This Snippet loops through the resources given\\n * for page titles.\\n * Then makes a LI element via chunk \\"fdspa_categories_list\\"\\n *\\n *\\n * USAGE:\\n *\\n * [[fdspaPages? &pages=`[[++flex-directory.parents]]`]]\\n *\\n *\\/\\n\\n$input = $modx->getOption(\'pages\', $scriptProperties);\\n$pages = explode(\\",\\", $input);\\n\\n$limit=0;\\n$c = $modx->newQuery(\'modResource\');\\n$c->where(array(\\n    \'id:IN\' => $pages,\\n));\\n$c->limit($limit, $offset); \\/\\/ whatever limit you want. This makes it compatible with getPage\\n$includeFields = $modx->getOption(\'includeFields\', $scriptProperties, \'id,pagetitle,hidemenu,published\'); \\/\\/ comma separated list including the primary key \\"id\\"\\n$c->select($includeFields); \\/\\/ only fetch the columns you need\\n\\n$resources = $modx->getCollection(\'modResource\', $c);\\n\\n$output = \\"\\";\\n$pageArray = array();\\nforeach ($resources as $res) {\\n    if(!$res->get(\'hidemenu\') && $res->get(\'published\')){\\n        $t = $res->get(\'pagetitle\');\\n        if(!in_array($t,$pageArray)){\\n            $pageArray[] = $t;\\n        }\\n    }\\n}\\n\\n$r = array();\\nforeach ($pageArray as $c){\\n    $r[\'cname\'] = $c;\\n    $output .= $modx->parseChunk(\'fdspa_categories_list\', $r);\\n}\\n\\nreturn $output;"}',
+        'guid' => '68318d6f3dc79a483de58e61d143ca7d',
+        'native_key' => NULL,
+        'signature' => 'ebc2c45c3f95a52e4787ae26d42f4f5c',
+      ),
+    ),
+    'Templates' => 
+    array (
+      '3f4902b7ee54db5c65f38e0295864cca' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'templatename',
+        'class' => 'modTemplate',
+        'object' => '{"id":null,"source":0,"property_preprocess":0,"templatename":"FDSPA Page","description":"","editor_type":0,"category":0,"icon":"","template_type":0,"content":"<!DOCTYPE html>\\n<html lang=\\"en\\">\\n<head>\\n<base href=\\"[[!++site_url]]\\">\\n    <meta charset=\\"UTF-8\\">\\n    <title>[[++site_name]]<\\/title>\\n\\n    <meta name=\\"viewport\\" content=\\"width=device-width, initial-scale=1\\">\\n\\n    <link href=\\"http:\\/\\/fonts.googleapis.com\\/css?family=Roboto|Open+Sans:400,400italic,600\\" rel=\\"stylesheet\\">\\n    <link rel=\\"stylesheet\\" href=\\"assets\\/components\\/flex-directory\\/css\\/app.css\\" \\/>\\n\\n<\\/head>\\n<body>\\n<header class=\\"bg-primary\\">\\n    <div class=\\"measure-wide wrap\\">\\n        <h1 class=\\"white py1 h2\\">[[++site_name]]<\\/h1>\\n    <\\/div>\\n<\\/header>\\n<section class=\\"bg-white border-bottom border-mid-gray\\">\\n    <div class=\\"measure-wide wrap clearfix\\">\\n        <!--<nav>\\n            <ul>\\n              <li><a href=\\"\\">Categories<\\/a><\\/li>\\n              <li><a href=\\"\\">Featured<\\/a><\\/li>\\n              <li><a href=\\"\\">Clearance<\\/a><\\/li>\\n          <\\/ul>\\n      <\\/nav>-->\\n    <\\/div>\\n<\\/section>\\n\\n<main class=\\"py2\\">\\n    <div class=\\"measure-wide wrap clearfix\\">\\n        [[++flex-directory.subheading:notempty=`<h2 class=\\"dark-gray fw1\\">[[++flex-directory.subheading]]<\\/h2>`]]\\n\\n        <div class=\\"flex--container flex--dir-row mt2 mb2\\">\\n            <aside class=\\"flex--col-2\\">\\n\\n    \\t\\t  \\t<div class=\\"default--box\\">\\n                    <ul class=\\"default--box-list category_list\\">\\n                        <li class=\\"active\\"><a class=\\"all\\" href=\\"javascript:void(0);\\">All<\\/a><\\/li>\\n                        <li class=\\"bg-light-gray phalf\\"><em>[[++flex-directory.sidetitle1]]<\\/em><\\/li>\\n                        [[fdspaCategories? &parents=`[[++flex-directory.parents]]`]]\\n                        <li class=\\"bg-light-gray phalf\\"><em>[[++flex-directory.sidetitle2]]<\\/em><\\/li>\\n                        [[fdspaPages? &pages=`[[++flex-directory.parents]]`]]\\n                    <\\/ul>\\n                <\\/div>\\n\\n            <\\/aside>\\n\\n            <article class=\\"grid--container grid--ads[[++flex-directory.style:is=`grid`:then=`-no`]]\\">\\n                 <div id=\\"infinite_list\\"><\\/div>\\n                 <div class=\\"center\\"><a href=\\"javascript:void(0)\\" id=\\"loadMoreInstaGrid\\" class=\\"button button-primary\\">Load More<\\/a><\\/div>\\n                 <div id=\\"odDetails\\" class=\\"center py1\\"><\\/div>\\n            <\\/article>\\n\\n            [[++flex-directory.style:is=`grid`:then=``:else=`\\n            <div class=\\"skyscraper flex--col-2 center\\">\\n    \\t\\t  \\t<div class=\\"default--box\\">\\n                    [[++flex-directory.ad]]\\n                <\\/div>\\n            <\\/div>`]]\\n\\n        <\\/div> <!-- flex container -->\\n    <\\/div><!-- wrap -->\\n<\\/main>\\n<script>var instaGridArray = [[fdspaContent? &parents=`[[++flex-directory.parents]]`]];<\\/script>\\n<script src=\\"\\/\\/ajax.googleapis.com\\/ajax\\/libs\\/jquery\\/2.1.3\\/jquery.min.js\\"><\\/script>\\n<script src=\\"assets\\/components\\/flex-directory\\/js\\/fdspa.js\\" defer><\\/script>\\n<\\/body>\\n<\\/html>\\n","locked":0,"properties":"a:0:{}","static":0,"static_file":""}',
+        'guid' => '0d2a0f2a01e7673d2109886bcc65099a',
+        'native_key' => NULL,
+        'signature' => 'e005661dcdc1fb042aa87a9b2a50b290',
+      ),
+      '28f79d9a3ccacc570080ea3de62bbda3' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'templatename',
+        'class' => 'modTemplate',
+        'object' => '{"id":null,"source":0,"property_preprocess":0,"templatename":"FDSPA Post","description":"","editor_type":0,"category":0,"icon":"","template_type":0,"content":"","locked":0,"properties":"a:0:{}","static":0,"static_file":""}',
+        'guid' => '0b4e65a04afa7911669ced63fde51c1e',
+        'native_key' => NULL,
+        'signature' => 'c184f8250aea3e80083f327ccb303308',
+      ),
+    ),
+    'TemplateVars' => 
+    array (
+      '22567538a50af204016656857cf900b5' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modTemplateVar',
+        'object' => '{"id":null,"source":0,"property_preprocess":0,"type":"image","name":"fdspa-thumb","caption":"Thumbnail","description":"","editor_type":0,"category":0,"locked":0,"elements":"","rank":0,"display":"","default_text":"","properties":"a:0:{}","input_properties":null,"output_properties":null,"static":0,"static_file":"","content":""}',
+        'guid' => 'c328e06f2e451e4e81d5f927426856ee',
+        'native_key' => NULL,
+        'signature' => '0be879e7c002e6650563dab94bcf3f75',
+      ),
+      '2e927df3203c720f4c8f4a7ce632bff9' => 
+      array (
+        'preserve_keys' => false,
+        'update_object' => true,
+        'unique_key' => 'name',
+        'class' => 'modTemplateVar',
+        'object' => '{"id":null,"source":0,"property_preprocess":0,"type":"Auto-Tag","name":"fdspa-category","caption":"Category","description":"","editor_type":0,"category":0,"locked":0,"elements":"","rank":1,"display":"","default_text":"","properties":"a:0:{}","input_properties":null,"output_properties":null,"static":0,"static_file":"","content":""}',
+        'guid' => 'b10b3446be83dc530e56c5fe80f57465',
+        'native_key' => NULL,
+        'signature' => 'ef1082400f891c8126c145566e573cc9',
+      ),
+    ),
+  ),
+  'related_object_attributes' => 
+  array (
+    'Children' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 
+      array (
+        0 => 'parent',
+        1 => 'category',
+      ),
+    ),
+    'Snippets' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+    'Chunks' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+    'Templates' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'templatename',
+    ),
+    'TemplateVars' => 
+    array (
+      'preserve_keys' => false,
+      'update_object' => true,
+      'unique_key' => 'name',
+    ),
+    'Plugins' => 
+    array (
+      'unique_key' => 'name',
+      'preserve_keys' => false,
+      'update_object' => true,
+      'related_objects' => true,
+      'related_object_attributes' => 
+      array (
+        'PluginEvents' => 
+        array (
+          'preserve_keys' => true,
+          'update_object' => false,
+          'unique_key' => 
+          array (
+            0 => 'pluginid',
+            1 => 'event',
+          ),
+        ),
+      ),
+    ),
+  ),
+  'namespace' => 'flex-directory',
+  'resolve' => 
+  array (
+    0 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"flex-directory-1.0.0-pl\\/modCategory\\/bc1457a0ceaf8b44463759408d82c9b6\\/0\\/","target":"return MODX_ASSETS_PATH . \'components\\/\';","name":"flex-directory"}',
+    ),
+    1 => 
+    array (
+      'type' => 'file',
+      'body' => '{"source":"flex-directory-1.0.0-pl\\/modCategory\\/bc1457a0ceaf8b44463759408d82c9b6\\/1\\/","target":"return MODX_CORE_PATH . \'components\\/\';","name":"flex-directory"}',
+    ),
+    2 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"flex-directory-1.0.0-pl\\/modCategory\\/bc1457a0ceaf8b44463759408d82c9b6.gpm.resolve.tv_templates.resolver","type":"php","name":"gpm.resolve.tv_templates"}',
+    ),
+    3 => 
+    array (
+      'type' => 'php',
+      'body' => '{"source":"flex-directory-1.0.0-pl\\/modCategory\\/bc1457a0ceaf8b44463759408d82c9b6.config.resolver","type":"php","name":"config"}',
+    ),
+  ),
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'bb2dbd0d553450d0ef3d4a4bebe0f8ef',
+  'package' => 'modx',
+  'class' => 'modCategory',
+  'signature' => 'bc1457a0ceaf8b44463759408d82c9b6',
+  'native_key' => NULL,
+  'object' => '{"id":null,"parent":0,"category":"FlexDirectory SPA","rank":0}',
+);

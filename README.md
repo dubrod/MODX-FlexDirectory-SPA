@@ -1,7 +1,11 @@
 # MODX-FlexDirectory-SPA
 A Single Page Application - Flex Box Directory - managed with MODX
 
-## Coming Soon
+**Demo Cloud** - http://fdspa.clients.modxcloud.com/
+
+**YouTube Package Install** - https://youtu.be/5REOxfTg_oE
+
+**YouTube Content Install/Demo** - https://youtu.be/x8wQzdqrmSA
 
 ![Home](/screenshots/index.jpeg)
 
@@ -36,9 +40,10 @@ A Single Page Application - Flex Box Directory - managed with MODX
 1. Search Feature
 2. Mobile Menu
 3. "Quick View" - AJAX Resource Content Modal
-4. PayPal Simple Integration
-5. Assign Pages to Top Menu with AJAX Content Modal - MODX System Setting
+4. Assign Pages to Top Menu with AJAX Content Modal - MODX System Setting
+5. Flexbox Polyfill
 
 ## Roadmap 2
 
 1. Content Importer inside of MODX
+2. PayPal Simple Integration

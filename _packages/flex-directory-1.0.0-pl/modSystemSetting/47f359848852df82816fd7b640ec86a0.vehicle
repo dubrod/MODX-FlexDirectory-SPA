@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'flex-directory',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'a5e8ef08e2595e490bb116aaa35af38e',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '47f359848852df82816fd7b640ec86a0',
+  'native_key' => 'flex-directory.sidetitle2',
+  'object' => '{"key":"flex-directory.sidetitle2","value":"Brands","xtype":"textfield","namespace":"flex-directory","area":"default","editedon":null}',
+);

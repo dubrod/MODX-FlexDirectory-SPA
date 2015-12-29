@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'flex-directory',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => 'b4d204548a2ab6bf35c23d708194d71d',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '5afb9f1c81c62a28bdbe210247a969d3',
+  'native_key' => 'flex-directory.pagetpl',
+  'object' => '{"key":"flex-directory.pagetpl","value":"2","xtype":"textfield","namespace":"flex-directory","area":"default","editedon":null}',
+);

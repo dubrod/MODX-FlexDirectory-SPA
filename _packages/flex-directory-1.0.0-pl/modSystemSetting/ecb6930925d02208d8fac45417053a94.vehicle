@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'flex-directory',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3ec7664bf9828a948077a9f501c303ca',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'ecb6930925d02208d8fac45417053a94',
+  'native_key' => 'flex-directory.ad',
+  'object' => '{"key":"flex-directory.ad","value":"Ad Code","xtype":"textfield","namespace":"flex-directory","area":"default","editedon":null}',
+);

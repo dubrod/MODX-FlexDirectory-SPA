@@ -1,0 +1,104 @@
+{
+  "name": "FlexDirectory SPA",
+  "lowCaseName": "flex-directory",
+  "description": "Single Page App Flexbox Directory in MODX",
+  "author": "Wayne Roddy",
+  "version": "1.0.0",
+  "package": {
+      "elements": {
+          "templates": [
+            {
+              "name": "FDSPA Page",
+              "file": "page_template.template.tpl"
+            },
+            {
+                "name": "FDSPA Post",
+                "file": "post_template.template.tpl"
+            }
+          ],
+          "tvs": [
+            {
+              "caption": "Thumbnail",
+              "name": "fdspa-thumb",
+              "templates": ["FDSPA Post", "FDSPA Page"],
+              "type": "image",
+              "sortOrder": 0
+            },
+            {
+              "caption": "Category",
+              "name": "fdspa-category",
+              "description": "",
+              "type": "Auto-Tag",
+              "templates": ["FDSPA Post", "FDSPA Page"],
+              "sortOrder": 1
+            }
+          ],
+          "snippets": [
+            {
+              "name": "fdspaCategories"
+            },
+            {
+              "name": "fdspaContent"
+            },
+            {
+              "name": "fdspaPages"
+            }
+          ],
+          "chunks": [
+              {
+                "name": "fdspa_categories_list"
+              }
+          ]
+      },
+      "systemSettings": [
+        {
+            "key": "parents",
+            "type": "textfield",
+            "value": "2,3,4"
+        },
+        {
+            "key": "pagetpl",
+            "type": "textfield",
+            "value": "2"
+        },
+        {
+            "key": "posttpl",
+            "type": "textfield",
+            "value": "3"
+        },
+        {
+            "key": "subheading",
+            "type": "textfield",
+            "value": "Main Directory"
+        },
+        {
+            "key": "sidetitle1",
+            "type": "textfield",
+            "value": "Tags"
+        },
+        {
+            "key": "sidetitle2",
+            "type": "textfield",
+            "value": "Brands"
+        },
+        {
+            "key": "style",
+            "type": "textfield",
+            "value": "grid"
+        },
+        {
+            "key": "ad",
+            "type": "textfield",
+            "value": "Ad Code"
+        }
+       ]
+  },
+  "build": {
+    "readme": "docs/index.md",
+    "license": "docs/license.md",
+    "changelog": "docs/changelog.md",
+    "resolver": {
+      "after": ["config.php"]
+    }
+  }
+}
