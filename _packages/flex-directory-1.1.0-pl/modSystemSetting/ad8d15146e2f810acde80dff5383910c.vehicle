@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'flex-directory',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '8d1afe4015d71040c5a55e8c68ae8b21',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'ad8d15146e2f810acde80dff5383910c',
+  'native_key' => 'flex-directory.sidetitle1',
+  'object' => '{"key":"flex-directory.sidetitle1","value":"Tags","xtype":"textfield","namespace":"flex-directory","area":"default","editedon":null}',
+);

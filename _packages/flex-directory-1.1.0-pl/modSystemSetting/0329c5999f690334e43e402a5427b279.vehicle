@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'flex-directory',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '7a6e83b9b44be470f0c6bf7d49fa2d36',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => '0329c5999f690334e43e402a5427b279',
+  'native_key' => 'flex-directory.posttpl',
+  'object' => '{"key":"flex-directory.posttpl","value":"3","xtype":"textfield","namespace":"flex-directory","area":"default","editedon":null}',
+);

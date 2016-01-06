@@ -8,12 +8,16 @@ A Single Page Application - Flex Box Directory - managed with MODX
 **YouTube Content Install/Demo** - https://youtu.be/x8wQzdqrmSA
 
 ![Home](/screenshots/index.jpeg)
+![Home Grid](/screenshots/index-grid.png)
+![Modal Gif](/screenshots/fdspa-modal.gif)
 
 ---
 
 ## Installation Notes
 
 **Packaged with GPM by TheBoxer.**
+
+> Resource 2 is automatically created with the content of: [[!fdspaApi]]
 
 ---
 
@@ -26,6 +30,9 @@ A Single Page Application - Flex Box Directory - managed with MODX
 5. 1 Page Application
 6. "Load More" from Json Object
 7. Filter Grid by Tag or Parent
+8. Search Feature
+9. Mobile Menu
+10. "Quick View" - AJAX Resource Content Modal
 
 **XML Installer**
 
@@ -37,13 +44,13 @@ A Single Page Application - Flex Box Directory - managed with MODX
 
 ## Roadmap 1
 
-1. Search Feature
-2. Mobile Menu
-3. "Quick View" - AJAX Resource Content Modal
-4. Assign Pages to Top Menu with AJAX Content Modal - MODX System Setting
-5. Flexbox Polyfill
+1. Secondary Image for Modal
+2. Flexbox Polyfill
+
+---
 
 ## Roadmap 2
 
 1. Content Importer inside of MODX
 2. PayPal Simple Integration
+3. Export Site to PhoneGap

@@ -1,0 +1,16 @@
+<?php return array (
+  'unique_key' => 'key',
+  'preserve_keys' => true,
+  'update_object' => false,
+  'namespace' => 'flex-directory',
+  'resolve' => NULL,
+  'validate' => NULL,
+  'vehicle_package' => 'transport',
+  'vehicle_class' => 'xPDOObjectVehicle',
+  'guid' => '3f487c876cb39d88932032212cc235f9',
+  'package' => 'modx',
+  'class' => 'modSystemSetting',
+  'signature' => 'c569fc9069d0cc3bf7111c19357dd138',
+  'native_key' => 'flex-directory.style',
+  'object' => '{"key":"flex-directory.style","value":"grid","xtype":"textfield","namespace":"flex-directory","area":"default","editedon":null}',
+);
