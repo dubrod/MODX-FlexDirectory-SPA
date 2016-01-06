@@ -1084,6 +1084,10 @@ form button {
 	border-radius: 50%;
 }
 
+.form-dark-brown {
+	padding: 1rem;
+}
+
 .form-dark-brown .input,
 .form-dark-brown .textarea,
 .form-dark-brown .select {
@@ -1390,6 +1394,9 @@ aside {
 
 #searchResults {
 	list-style: none;
+}
+
+#searchResults li {
 	margin-top: .75rem;
 }
 
@@ -1415,6 +1422,15 @@ aside {
 [hidden~="screen"]:not(:active):not(:focus):not(:target) {
 	clip: rect(0 0 0 0) !important;
 	position: absolute !important;
+}
+
+}
+
+@media only screen and (max-width: 1024px) {
+
+.modal {
+	overflow: scroll;
+	overflow-scrolling: touch;
 }
 
 }
@@ -1498,9 +1514,19 @@ aside {
 	max-width: 25%;
 }
 
+#searchResults {
+	margin: 0;
+}
+
+#searchResults li {
+	padding: 0;
+}
+
 .grid--container {
 	flex-basis: 75%;
 	max-width: 75%;
+	padding-left: 0;
+	padding-right: 0;
 }
 
 .grid--container.grid--ads-no {
@@ -1626,6 +1652,14 @@ aside {
 	text-align: center;
 }
 
+.form-dark-brown {
+	padding: .5rem;
+}
+
+header h1 {
+	line-height: .5rem !important;
+}
+
 main {
 	position: relative;
 }
@@ -1633,8 +1667,8 @@ main {
 aside {
 	position: fixed;
 	z-index: 9999;
-	width: 250px;
-	left: -250px;
+	width: 230px;
+	left: -230px;
 	transition: all 0.3s ease-in-out;
 	-webkit-backface-visibility: hidden;
 }
@@ -1660,6 +1694,8 @@ aside.active {
 aside.active:after {
 	background-color: #28665a;
 	content: "X";
+	width: 3.5rem;
+	right: -3.5rem;
 }
 
 .flex--col,

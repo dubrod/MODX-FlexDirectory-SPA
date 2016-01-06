@@ -64,7 +64,7 @@ $(document).on('keyup', '.tag-field', function() {
 		$("#searchResults").html('');
 		objSearch(instaGridArray,tagValue);
     } else {
-		$("#searchResults").html("");
+		$("#searchResults").html('');
 	}
 });
 
@@ -97,9 +97,9 @@ $(document).ready(function(){
 
         //modals
 
-        $(document).on('click touchstart', '.js-fdspa-modal', function() {
+        $(document).on('click', '.js-fdspa-modal', function() {
 	        $(".modal-bg").fadeIn();
-	        $("#fdspaModal").fadeIn().animate({scrollTop: 100},'slow');
+	        $(".modal").fadeIn().animate({scrollTop: 10},'slow');
 	        var dataId = $(this).data("id");
 	        //console.log(dataId);
 

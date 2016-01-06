@@ -6,6 +6,8 @@
     <title>[[++site_name]]</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="mobile-web-app-capable" content="yes">
 
     <link href="http://fonts.googleapis.com/css?family=Roboto|Open+Sans:400,400italic,600" rel="stylesheet">
     <link rel="stylesheet" href="assets/components/flex-directory/css/app.css" />
@@ -14,8 +16,8 @@
 <body>
 <header class="bg-dark-brown"><h1 class="white p1 h2">[[++site_name]]</h1></header>
 <section class="bg-brown">
-    <form class="p1 form-dark-brown">
-        <input type="text" autocomplete="off" class="input tag-field" placeholder="search..."><button class="button button-small button-dark">SEARCH</button>
+    <form class="form-dark-brown">
+        <input type="text" autocomplete="off" class="input tag-field" placeholder="search..."><!--<button class="button button-small button-dark">SEARCH</button>-->
         <ul id="searchResults"></ul>
     </form>
 </section>
@@ -53,7 +55,7 @@
             <div class="modal-header bg-primary">
               <h2 class="modal-title white p1" id="fdspaModalLabel"></h2>
             </div>
-            <div class="modal-image center p1"><img id="fdspaModalImage" src="assets/components/flex-directory/loading_spinner.gif"></div>
+            <div class="modal-image center p1"><img id="fdspaModalImage" src=""></div>
             <div class="modal-body p1" id="fdspaModalBody"></div>
             <div class="modal-footer bg-black center">
               <button type="button" class="m1 button button-danger full-width js-close-modal" data-dismiss="modal">Close</button>
